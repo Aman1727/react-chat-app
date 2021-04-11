@@ -1,0 +1,19 @@
+.Main{
+    background-color: rgb(22, 22, 22);
+    display: flex;
+    overflow: hidden;
+}
+.Profile{
+    width: 18%;
+}
+.Conversations{
+    width: 32%;
+}
+.TextArea__TopOption{
+    width: 60%;
+    background-color: rgb(102, 102, 102);
+}
+.ContactInfo{
+    transition: 0.3s;
+    z-index: 1;
+}
